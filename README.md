@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lucas Silverio</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
-- 🔭 I’m currently working on **Full Stack Application with Django and React**
-
 - 💬 Ask me about **Nodejs, ExpressJS, MYSQL, MongoDB, Mongoose, Python, Django **
 
 - 📫 How to reach me **lukasilverio94@gmail.com**
