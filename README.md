@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Full Stack Application with Django and React**
 
-- 💬 Ask me about **React, Nodejs, Python, Django**
+- 💬 Ask me about **Nodejs, ExpressJS, MYSQL, MongoDB, Mongoose, Python, Django **
 
 - 📫 How to reach me **lukasilverio94@gmail.com**
 
